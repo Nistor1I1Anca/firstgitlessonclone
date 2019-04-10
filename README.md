@@ -1,4 +1,3 @@
 # first git lesson
 
-ancaNistor bla bla
-dcsfsdfv
+my branch for test
